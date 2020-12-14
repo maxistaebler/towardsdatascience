@@ -13,6 +13,8 @@ I will update (hopefully recently) this repository and gather ideas.
 * Model Evaluation - Randomness?
     * https://blog.zakjost.com/post/experimental_variation/
 
+## Repository Structure
+
 ```bash
 .
 ├── NOTES
