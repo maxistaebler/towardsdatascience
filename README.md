@@ -3,6 +3,8 @@
 All contents relate to Medium or respectively TowardsDataScience.  
 I will update (hopefully recently) this repository and gather ideas.
 
+**[Link to my Medium Page](https://maximilianstaebler.medium.com)**
+
 ## Realized
 
 1. [Evaluation Metrics for Classification](https://maximilianstaebler.medium.com/data-science-evaluation-metrics-unravel-algorithms-267c55f09fa2)
