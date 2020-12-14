@@ -3,18 +3,20 @@
 All contents relate to Medium or respectively TowardsDataScience.  
 I will update (hopefully recently) this repository and gather ideas.
 
+## Realized
+
+1. [Evaluation Metrics for Classification](https://maximilianstaebler.medium.com/data-science-evaluation-metrics-unravel-algorithms-267c55f09fa2)
+
 ## Ideas
 
-1. Evaluation Metrics
-    1. Classification
-    2. Regression
-2. Model Evaluation - Randomness?
-    1. https://blog.zakjost.com/post/experimental_variation/
+* Evaluation Metrics for Regression
+* Model Evaluation - Randomness?
+    * https://blog.zakjost.com/post/experimental_variation/
 
 ```bash
 .
 ├── NOTES
 │   └── baysian_inference
-│       └── Baysian\ Inference.docx
-└── README.md
+└── evaluation-metrics
+    └── plots
 ```
